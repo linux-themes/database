@@ -1,0 +1,32 @@
+Themes:
+  1:
+    Name: Mint
+    Description: Mint icon pack.
+    Category: Icons
+    Icon: mint.svg
+    Path: ~/.icons/Mint/
+    Url: https://github.com/linux-themes/.icons/raw/refs/heads/main/data/mint/Mint.tar.xz
+
+  2:
+    Name: Infinity
+    Description: Infinity Icon pack.
+    Category: Icons
+    Icon: infinity.svg
+    Path: ~/.icons/Mint/
+    Url: https://github.com/linux-themes/.icons/raw/refs/heads/main/data/infinity/Infinity.tar.gz
+
+  3:
+    Name: Obsidian
+    Description: Obsidian Icon pack.
+    Category: Icons
+    Icon: obsidian.svg
+    Path: ~/.icons/Mint/
+    Url: https://github.com/linux-themes/.icons/raw/refs/heads/main/data/obsidian/Obsidian.tar.xz
+
+  4:
+    Name: Win11
+    Description: Win11 Icon pack.
+    Category: Icons
+    Icon: win11:.svg
+    Path: ~/.icons/Mint/
+    Url: https://github.com/linux-themes/.icons/raw/refs/heads/main/data/win11/Win11.tar.xz
