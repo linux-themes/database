@@ -6,11 +6,11 @@ Themes:
     Desktop: Gnome
     Icon: marble.svg
     Url: "https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz"
-
+ 
   2:
     Name: Test
     Description: Test themed shell.
     Category: Theme
     Desktop: Gnome
     Icon: test.svg
-    Url: "https://github.com/linux-themes/themes/blob/main/themes/gnome/marble/Marble.tar.gz"
+    Url: "https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz"
