@@ -5,7 +5,7 @@ Themes:
     Category: Theme
     Desktop: Gnome
     Icon: marble.svg
-    Url: "https://github.com/linux-themes/.themes/raw/refs/heads/main/data/gnome/marble/Marble.tar.gz"
+    Url: "https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz"
 
   2:
     Name: Test
@@ -13,4 +13,4 @@ Themes:
     Category: Theme
     Desktop: Gnome
     Icon: test.svg
-    Url: "https://github.com/linux-themes/.themes/blob/main/data/gnome/marble/Marble.tar.gz"
+    Url: "https://github.com/linux-themes/themes/blob/main/themes/gnome/marble/Marble.tar.gz"
