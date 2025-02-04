@@ -5,7 +5,7 @@ Themes:
     Category: Icons
     Icon: mint.svg
     Path: ~/.icons/Mint/
-    Url: https://github.com/linux-themes/.icons/raw/refs/heads/main/data/mint/Mint.tar.xz
+    Url: https://github.com/linux-themes/database/raw/refs/heads/main/icons/mint/Mint.tar.xz
 
   2:
     Name: Infinity
@@ -13,7 +13,7 @@ Themes:
     Category: Icons
     Icon: infinity.svg
     Path: ~/.icons/Mint/
-    Url: https://github.com/linux-themes/.icons/raw/refs/heads/main/data/infinity/Infinity.tar.gz
+    Url: https://github.com/linux-themes/database/raw/refs/heads/main/icons/infinity/Infinity.tar.gz
 
   3:
     Name: Obsidian
@@ -21,7 +21,7 @@ Themes:
     Category: Icons
     Icon: obsidian.svg
     Path: ~/.icons/Mint/
-    Url: https://github.com/linux-themes/.icons/raw/refs/heads/main/data/obsidian/Obsidian.tar.xz
+    Url: https://github.com/linux-themes/database/raw/refs/heads/main/icons/obsidian/Obsidian.tar.xz
 
   4:
     Name: Win11
@@ -29,4 +29,5 @@ Themes:
     Category: Icons
     Icon: win11:.svg
     Path: ~/.icons/Mint/
-    Url: https://github.com/linux-themes/.icons/raw/refs/heads/main/data/win11/Win11.tar.xz
+    Url: https://github.com/linux-themes/database/raw/refs/heads/main/icons/win11/Win11.tar.xz
+    
