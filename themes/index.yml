@@ -1,16 +1,18 @@
-Themes:
-  1:
-    Name: Marble
-    Description: Marble themed shell.
-    Category: Theme
-    Desktop: Gnome
-    Icon: marble.svg
-    Url: "https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz"
- 
-  2:
-    Name: Test
-    Description: Test themed shell.
-    Category: Theme
-    Desktop: Gnome
-    Icon: test.svg
-    Url: "https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz"
+themes:
+    1:
+        name: marble
+        description: Marble themed shell.
+        category: themes
+        desktop: gnome
+        url_icon: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/marble.png
+        url_screenshot: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/marble.png
+        url_package: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz
+
+    2:
+        name: xcfe_test
+        description: Test xcfe shell theme.
+        category: themes
+        desktop: xcfe
+        url_icon:
+        url_screenshot:
+        url_package: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz
