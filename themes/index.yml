@@ -1,6 +1,6 @@
 themes:
     1:
-        name: marble
+        name: Marble
         description: Marble themed shell.
         category: themes
         desktop: gnome
