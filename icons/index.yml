@@ -16,7 +16,7 @@ icons:
         category: icons
         description: Obsidian icon pack.
         path: ~/.icons/Mint/
-        maintianer: madmaxms
+        maintainer: madmaxms
         repository: iconpack-obsidian
         url_git: https://github.com/madmaxms/iconpack-obsidian
         url_icon: https://raw.githubusercontent.com/madmaxms/iconpack-obsidian/refs/heads/master/logo.jpg
