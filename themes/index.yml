@@ -5,7 +5,7 @@ themes:
         category: themes
         desktop: gnome
         url_icon: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/marble.png
-        url_screenshot: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/marble.png
+        url_screenshot: https://raw.githubusercontent.com/imarkoff/Marble-shell-theme/main/readme-images/gdm.png
         url_package: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz
 
     2:
@@ -13,6 +13,6 @@ themes:
         description: Test xcfe shell theme.
         category: themes
         desktop: xcfe
-        url_icon:
-        url_screenshot:
+        url_icon: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/marble.png
+        url_screenshot: https://raw.githubusercontent.com/imarkoff/Marble-shell-theme/main/readme-images/gdm.png
         url_package: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz
