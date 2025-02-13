@@ -1,23 +1,14 @@
 icons:
     1:
-        name: Mint
+        name: We10X
         category: icons
-        description: Mint icon pack.
-        path: ~/.icons/Mint/
+        description: We10X icon pack.
+        path: ~/.icons/We10X/
         url_icon: https://raw.githubusercontent.com/yeyushengfan258/We10X-icon-theme/refs/heads/master/View-1.png
         url_screenshot: https://raw.githubusercontent.com/yeyushengfan258/We10X-icon-theme/refs/heads/master/View-1.png
         url_package: https://github.com/linux-themes/database/raw/refs/heads/main/icons/mint/Mint.tar.xz
 
     2:
-        name: Infinity
-        category: icons
-        description: Infinity icon pack.
-        path: ~/.icons/Mint/
-        url_icon: https://github.com/linux-themes/database/raw/refs/heads/main/icons/mint/infinity.svg
-        url_screenshot: https://github.com/linux-themes/database/raw/refs/heads/main/icons/mint/infinity.svg
-        url_package: https://github.com/linux-themes/database/raw/refs/heads/main/icons/infinity/Infinity.tar.gz
-
-    3:
         name: Obsidian
         category: icons
         description: Obsidian icon pack.
@@ -26,7 +17,7 @@ icons:
         url_screenshot: https://raw.githubusercontent.com/madmaxms/iconpack-obsidian/refs/heads/master/logo.jpg
         url_package: https://github.com/linux-themes/database/raw/refs/heads/main/icons/obsidian/Obsidian.tar.xz
 
-    4:
+    3:
         name: Win11
         category: icons
         description: Win11 icon pack.
