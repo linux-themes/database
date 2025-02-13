@@ -4,6 +4,9 @@ themes:
         description: Marble themed shell.
         category: themes
         desktop: gnome
+        maintainer: imarkoff
+        repository: Marble-shell-theme
+        url_git: https://github.com/imarkoff/Marble-shell-theme
         url_icon: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/marble.png
         url_screenshot: https://raw.githubusercontent.com/imarkoff/Marble-shell-theme/main/readme-images/gdm.png
         url_package: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz
@@ -13,6 +16,9 @@ themes:
         description: Test xcfe shell theme.
         category: themes
         desktop: xcfe
+        maintainer: imarkoff
+        repository: Marble-shell-theme
+        url_git: https://github.com/imarkoff/Marble-shell-theme
         url_icon: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/marble.png
         url_screenshot: https://raw.githubusercontent.com/imarkoff/Marble-shell-theme/main/readme-images/gdm.png
         url_package: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz
