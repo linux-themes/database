@@ -24,3 +24,16 @@ themes:
         url_icon: https://github.com/simonkrauter/Xfce-Simple-Dark/blob/master/screenshot.png
         url_screenshot: https://github.com/simonkrauter/Xfce-Simple-Dark/blob/master/screenshot.png
         url_package: https://github.com/simonkrauter/Xfce-Simple-Dark/archive/refs/tags/v11.tar.gz
+
+    3:
+        name: Dracula
+        description: Dracula gnome shell theme.
+        category: themes
+        package_number: 3
+        desktop: xcfe
+        maintainer: dracula
+        repository: gtk
+        url_git: https://github.com/dracula/gtk
+        url_icon: https://camo.githubusercontent.com/47432d62025e514682b86630687520e3fbf4c3fbc80f6d2bb065c827c4639d93/68747470733a2f2f64726163756c617468656d652e636f6d2f696d616765732f6865726f2f64726163756c612d69636f6e2e737667
+        url_screenshot: https://github.com/dracula/gtk/blob/master/screenshot.png
+        url_package: https://github.com/dracula/gtk/releases/download/v4.0.0/Dracula.tar.xz
