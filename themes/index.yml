@@ -13,14 +13,14 @@ themes:
         url_package: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz
 
     2:
-        name: xcfe_test
-        description: Test xcfe shell theme.
+        name: Simple Dark
+        description: Simple Dark xcfe shell theme.
         category: themes
         package_number: 2
         desktop: xcfe
-        maintainer: imarkoff
-        repository: Marble-shell-theme
-        url_git: https://github.com/imarkoff/Marble-shell-theme
-        url_icon: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/marble.png
-        url_screenshot: https://raw.githubusercontent.com/imarkoff/Marble-shell-theme/main/readme-images/gdm.png
-        url_package: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz
+        maintainer: simonkrauter
+        repository: Xfce-Simple-Dark
+        url_git: https://github.com/simonkrauter/Xfce-Simple-Dark
+        url_icon: https://github.com/simonkrauter/Xfce-Simple-Dark/blob/master/screenshot.png
+        url_screenshot: https://github.com/simonkrauter/Xfce-Simple-Dark/blob/master/screenshot.png
+        url_package: https://github.com/simonkrauter/Xfce-Simple-Dark/archive/refs/tags/v11.tar.gz
