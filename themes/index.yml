@@ -22,7 +22,7 @@ themes:
         repository: Xfce-Simple-Dark
         url_git: https://github.com/simonkrauter/Xfce-Simple-Dark
         url_icon: https://github.com/simonkrauter/Xfce-Simple-Dark/blob/master/screenshot.png
-        url_screenshot: https://github.com/simonkrauter/Xfce-Simple-Dark/blob/master/screenshot.png
+        url_screenshot: https://raw.githubusercontent.com/simonkrauter/Xfce-Simple-Dark/refs/heads/master/screenshot.png
         url_package: https://github.com/simonkrauter/Xfce-Simple-Dark/archive/refs/tags/v11.tar.gz
 
     3:
@@ -30,7 +30,7 @@ themes:
         description: Dracula gnome shell theme.
         category: themes
         package_number: 3
-        desktop: xcfe
+        desktop: gnome
         maintainer: dracula
         repository: gtk
         url_git: https://github.com/dracula/gtk
