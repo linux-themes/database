@@ -21,7 +21,7 @@ themes:
         maintainer: simonkrauter
         repository: Xfce-Simple-Dark
         url_git: https://github.com/simonkrauter/Xfce-Simple-Dark
-        url_icon: https://github.com/simonkrauter/Xfce-Simple-Dark/blob/master/screenshot.png
+        url_icon: https://images.pling.com/cache/85x85-2/img/00/00/44/20/14/1150488/e4942c9004a1a5b8d8aef64e66d11e931bf6.png
         url_screenshot: https://raw.githubusercontent.com/simonkrauter/Xfce-Simple-Dark/refs/heads/master/screenshot.png
         url_package: https://github.com/simonkrauter/Xfce-Simple-Dark/archive/refs/tags/v11.tar.gz
 
