@@ -2,6 +2,7 @@ icons:
     1:
         name: We10X
         category: icons
+        package_number: 1
         desktop: all
         description: We10X icon pack.
         path: ~/.icons/We10X/
@@ -15,6 +16,7 @@ icons:
     2:
         name: Obsidian
         category: icons
+        package_number: 2
         desktop: all
         description: Obsidian icon pack.
         path: ~/.icons/Mint/
@@ -28,6 +30,7 @@ icons:
     3:
         name: Win11
         category: icons
+        package_number: 3
         desktop: all
         description: Win11 icon pack.
         path: ~/.icons/Mint/

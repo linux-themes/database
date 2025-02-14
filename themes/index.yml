@@ -3,6 +3,7 @@ themes:
         name: Marble
         description: Marble themed shell.
         category: themes
+        package_number: 1
         desktop: gnome
         maintainer: imarkoff
         repository: Marble-shell-theme
@@ -15,6 +16,7 @@ themes:
         name: xcfe_test
         description: Test xcfe shell theme.
         category: themes
+        package_number: 2
         desktop: xcfe
         maintainer: imarkoff
         repository: Marble-shell-theme
