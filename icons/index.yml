@@ -25,7 +25,7 @@ icons:
         url_git: https://github.com/madmaxms/iconpack-obsidian
         url_icon: https://raw.githubusercontent.com/madmaxms/iconpack-obsidian/refs/heads/master/logo.jpg
         url_screenshot: https://raw.githubusercontent.com/madmaxms/iconpack-obsidian/refs/heads/master/logo.jpg
-        url_package: https://github.com/linux-themes/database/raw/refs/heads/main/icons/obsidian/Obsidian.tar.xz
+        url_package: https://github.com/madmaxms/iconpack-obsidian/releases/download/v4.15/obsidian-iconpack.tar.xz
 
     3:
         name: Win11
@@ -36,7 +36,7 @@ icons:
         path: ~/.icons/Mint/
         maintainer: yeyushengfan258
         repository: Win11-icon-theme
-        url_git: https://github.com/yeyushengfan258/Win11-icon-themes
+        url_git: https://github.com/yeyushengfan258/Win11-icon-theme
         url_icon: https://raw.githubusercontent.com/yeyushengfan258/Win11-icon-theme/main/View-1.png
         url_screenshot: https://raw.githubusercontent.com/yeyushengfan258/Win11-icon-theme/main/View-4.png
         url_package: https://github.com/linux-themes/database/raw/refs/heads/main/icons/win11/Win11.tar.xz
