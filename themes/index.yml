@@ -10,7 +10,7 @@ themes:
         url_git: https://github.com/imarkoff/Marble-shell-theme
         url_icon: https://images.pling.com/cache/350x350-2/img/00/00/70/02/69/1977647/preview.png
         url_screenshot: https://raw.githubusercontent.com/imarkoff/Marble-shell-theme/main/readme-images/gdm.png
-        url_package: https://github.com/linux-themes/database/raw/refs/heads/main/themes/gnome/marble/Marble.tar.gz
+        url_package: https://github.com/imarkoff/Marble-shell-theme/releases/download/46.2.3/Marble-shell.tar.xz
 
     2:
         name: Simple Dark
