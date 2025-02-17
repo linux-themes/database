@@ -11,7 +11,7 @@ icons:
         url_git: https://github.com/yeyushengfan258/We10X-icon-theme/
         url_icon: https://raw.githubusercontent.com/yeyushengfan258/We10X-icon-theme/refs/heads/master/View-1.png
         url_screenshot: https://raw.githubusercontent.com/yeyushengfan258/We10X-icon-theme/refs/heads/master/View-1.png
-        url_package: https://github.com/linux-themes/database/raw/refs/heads/main/icons/win10/We10X.tar.xz
+        url_package: https://github.com/linux-themes/We10X-icon-theme/releases/download/v1.0.0/We10X.tar.xz
 
     2:
         name: Obsidian
