@@ -39,4 +39,4 @@ icons:
         url_git: https://github.com/yeyushengfan258/Win11-icon-theme
         url_icon: https://raw.githubusercontent.com/yeyushengfan258/Win11-icon-theme/main/View-1.png
         url_screenshot: https://raw.githubusercontent.com/yeyushengfan258/Win11-icon-theme/main/View-4.png
-        url_package: https://github.com/linux-themes/database/raw/refs/heads/main/icons/win11/Win11.tar.xz
+        url_package: https://github.com/linux-themes/Win11-icon-theme/releases/download/v1.0.0/Win11.tar.xz
