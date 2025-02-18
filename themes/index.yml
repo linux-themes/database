@@ -37,3 +37,16 @@ themes:
         url_icon: https://camo.githubusercontent.com/47432d62025e514682b86630687520e3fbf4c3fbc80f6d2bb065c827c4639d93/68747470733a2f2f64726163756c617468656d652e636f6d2f696d616765732f6865726f2f64726163756c612d69636f6e2e737667
         url_screenshot: https://raw.githubusercontent.com/dracula/gtk/refs/heads/master/screenshot.png
         url_package: https://github.com/dracula/gtk/releases/download/v4.0.0/Dracula.tar.xz
+
+    4:
+        name: WhiteSur
+        category: themes
+        package_number: 4
+        desktop: gnome
+        description: WhiteSur gnome shell theme.
+        maintainer: vinceliuice
+        repository: WhiteSur-gtk-theme
+        url_git: https://github.com/vinceliuice/WhiteSur-gtk-theme
+        url_icon: https://images.pling.com/cache/350x350-2/img/00/00/32/24/44/1403327/4bd4b917c10d69d10cd42ee0f14b8efc14de.png
+        url_screenshot: https://raw.githubusercontent.com/vinceliuice/WhiteSur-gtk-theme/refs/heads/pictures/pictures/colors-themes.png
+        url_package: https://github.com/linux-themes/WhiteSur-gtk-theme/releases/download/v1.0.0/WhiteSur.tar.xz

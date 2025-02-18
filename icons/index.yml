@@ -19,7 +19,7 @@ icons:
         package_number: 2
         desktop: all
         description: Obsidian icon pack.
-        path: ~/.icons/Mint/
+        path: ~/.icons/Obsidian/
         maintainer: madmaxms
         repository: iconpack-obsidian
         url_git: https://github.com/madmaxms/iconpack-obsidian
@@ -33,7 +33,7 @@ icons:
         package_number: 3
         desktop: all
         description: Win11 icon pack.
-        path: ~/.icons/Mint/
+        path: ~/.icons/Win11/
         maintainer: yeyushengfan258
         repository: Win11-icon-theme
         url_git: https://github.com/yeyushengfan258/Win11-icon-theme
