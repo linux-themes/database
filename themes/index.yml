@@ -50,3 +50,16 @@ themes:
         url_icon: https://images.pling.com/cache/350x350-2/img/00/00/32/24/44/1403327/4bd4b917c10d69d10cd42ee0f14b8efc14de.png
         url_screenshot: https://raw.githubusercontent.com/vinceliuice/WhiteSur-gtk-theme/refs/heads/pictures/pictures/colors-themes.png
         url_package: https://github.com/linux-themes/WhiteSur-gtk-theme/releases/download/v1.0.0/WhiteSur.tar.xz
+
+    5:
+        name: Orchis
+        category: themes
+        package_number: 5
+        desktop: gnome
+        description: Orchis gnome shell theme.
+        maintainer: vinceliuice
+        repository: Orchis-theme
+        url_git: https://github.com/vinceliuice/Orchis-theme
+        url_icon: https://images.pling.com/cache/350x350-2/img/00/00/32/24/44/1357889/e1e4dc0611627e93ae11227f17cc8a875d4f.jpg
+        url_screenshot: https://raw.githubusercontent.com/linux-themes/Orchis-theme/master/images/screenshot.png
+        url_package: https://github.com/linux-themes/Orchis-theme/releases/download/v1.0.0/Orchis.tar.xz
