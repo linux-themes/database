@@ -1,22 +1,8 @@
 icons:
     1:
-        name: We10X
-        category: icons
-        package_number: 1
-        desktop: all
-        description: We10X icon pack.
-        path: ~/.icons/We10X/
-        maintainer: yeyushengfan258
-        repository: We10X-icon-theme
-        url_git: https://github.com/yeyushengfan258/We10X-icon-theme/
-        url_icon: https://raw.githubusercontent.com/yeyushengfan258/We10X-icon-theme/refs/heads/master/View-1.png
-        url_screenshot: https://raw.githubusercontent.com/yeyushengfan258/We10X-icon-theme/refs/heads/master/View-1.png
-        url_package: https://github.com/linux-themes/We10X-icon-theme/releases/download/v1.0.0/We10X.tar.xz
-
-    2:
         name: Obsidian
         category: icons
-        package_number: 2
+        package_number: 1
         desktop: all
         description: Obsidian icon pack.
         path: ~/.icons/Obsidian/
@@ -27,10 +13,10 @@ icons:
         url_screenshot: https://raw.githubusercontent.com/madmaxms/iconpack-obsidian/refs/heads/master/logo.jpg
         url_package: https://github.com/madmaxms/iconpack-obsidian/releases/download/v4.15/obsidian-iconpack.tar.xz
 
-    3:
+    2:
         name: Win11
         category: icons
-        package_number: 3
+        package_number: 2
         desktop: all
         description: Win11 icon pack.
         path: ~/.icons/Win11/
@@ -40,3 +26,17 @@ icons:
         url_icon: https://raw.githubusercontent.com/yeyushengfan258/Win11-icon-theme/main/View-1.png
         url_screenshot: https://raw.githubusercontent.com/yeyushengfan258/Win11-icon-theme/main/View-4.png
         url_package: https://github.com/linux-themes/Win11-icon-theme/releases/download/v1.0.0/Win11.tar.xz
+
+    3:
+        name: We10X
+        category: icons
+        package_number: 3
+        desktop: all
+        description: We10X icon pack.
+        path: ~/.icons/We10X/
+        maintainer: yeyushengfan258
+        repository: We10X-icon-theme
+        url_git: https://github.com/yeyushengfan258/We10X-icon-theme/
+        url_icon: https://raw.githubusercontent.com/yeyushengfan258/We10X-icon-theme/refs/heads/master/View-1.png
+        url_screenshot: https://raw.githubusercontent.com/yeyushengfan258/We10X-icon-theme/refs/heads/master/View-1.png
+        url_package: https://github.com/linux-themes/We10X-icon-theme/releases/download/v1.0.0/We10X.tar.xz
