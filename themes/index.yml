@@ -63,3 +63,16 @@ themes:
         url_icon: https://images.pling.com/cache/350x350-2/img/00/00/32/24/44/1357889/e1e4dc0611627e93ae11227f17cc8a875d4f.jpg
         url_screenshot: https://raw.githubusercontent.com/linux-themes/Orchis-theme/master/images/screenshot.png
         url_package: https://github.com/linux-themes/Orchis-theme/releases/download/v1.0.0/Orchis.tar.xz
+
+    6:
+        name: Flat
+        category: themes
+        package_number: 6
+        desktop: gnome
+        description: Flat gnome shell theme.
+        maintainer: daniruiz
+        repository: flat-remix-gnome
+        url_git: https://github.com/daniruiz/flat-remix-gnome
+        url_icon: https://raw.githubusercontent.com/daniruiz/flat-remix-gnome/master/assets/logo.png
+        url_screenshot: https://raw.githubusercontent.com/daniruiz/flat-remix-gnome/master/assets/preview.png
+        url_package: https://github.com/linux-themes/flat-remix-gnome/releases/download/v1.0.0/Flat-Remix.tar.xz
